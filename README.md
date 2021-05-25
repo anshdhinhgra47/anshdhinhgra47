@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: My Awesome GitHub Stats</summary>
 
   ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshdhinhgra47&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshdhinhgra47&langs_count=8&layout=compact&theme=radical)](https://github.com/anshdhinhgra47/github-readme-stats)
 
