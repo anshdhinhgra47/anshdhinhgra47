@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 
 <br />
 
----
-
 <details>
   <summary>:zap: Open Source Projects I have contributed to</summary>
   
