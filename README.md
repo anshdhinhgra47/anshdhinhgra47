@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently working on rooting different boxes on Hack The Box and spending time on TryHackMe
 - 🌱 I’m currently learning Go and Rust 
-- 👯 I’m currently looking for Fall 2021 SWE and Cyber Security Internship opportunities
-- 🥅 2020 Goals: Participate in more CTFs and Hackathons, and lose some weight!(well that's every year's goal so nothing special)
+- 👯 I’m currently looking for Winter 2023 SWE and Cyber Security Internship opportunities
+- 🥅 2022 Goals: Participate in more CTFs and Hackathons, and lose some weight!(well that's every year's goal so nothing special)
 - ⚡ Fun fact: I once performed 2 consecutive flips in one swirl of a pancake
 
 ### Connect with me:
